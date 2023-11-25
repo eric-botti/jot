@@ -1,0 +1,10 @@
+{
+    "Todo List": {
+      "description": "Short and simple list with checkboxes, prefect for shopping lists, morning routines, and more.",
+      "format": "List Title:\n\n- [x] This is a complete task\n\n- [ ] this is an incomplete task\n\n- [ ] another incomplete task"
+    },
+    "Meeting Notes": {
+      "description": "Action items and key take waways topics discussed in a summary of a meeting",
+      "format": "Meeting Description: \n\n- First item that was discussed\n\n- Second item that was discussed\n\n  - Subitem of second item\n\n- Third item that was discussed"
+    }
+}
